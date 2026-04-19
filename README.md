@@ -1,2 +1,4 @@
 # PS01_Grupo3
-Repositorio de archivos del Problem Set 1 del curso de Macroeconomía Internacional
+
+
+Link del video: https://drive.google.com/drive/folders/1T1ov99ZHqPOhq5Qp_p7k56zupslqnpYd?usp=sharing
